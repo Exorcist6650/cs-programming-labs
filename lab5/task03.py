@@ -4,7 +4,6 @@ def main():
 
     if not(n > 0): 
         raise ValueError("Not valid value")
-
         
     below_zero = 0
     equal_zero = 0
